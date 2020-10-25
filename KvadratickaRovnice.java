@@ -13,7 +13,7 @@ public class KvadratickaRovnice {
         b = sc.nextDouble();
         c = sc.nextDouble();
 
-        double d, d2, re, im, x = 0, x1, x2;
+        double d, d2, re, im, x, x1, x2;
         if (a == 0){
             if (b == 0)
                 System.out.println("Tohle neni rovnice");
